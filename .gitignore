@@ -1,0 +1,31 @@
+# بيئات افتراضية
+venv/
+.venv/
+env/
+
+# ملفات بايثون المُترجمة
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# إعدادات بيئة التطوير
+.env
+.env.local
+
+# ملفات IDE / محررات
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# مجلدات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات اختبار محلية (نتائج مؤقتة)
+*.tmp
+/test_output/
+
+# بيانات شخصية اختيارية (الملفات داخل data/samples/ تبقى لأنها للعرض فقط)
+# data/inputs/

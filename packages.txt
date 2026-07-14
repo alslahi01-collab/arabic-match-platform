@@ -1,0 +1,5 @@
+# حزم النظام المطلوبة لـ Streamlit Cloud و Render
+# تُستخدم مع runtime.txt إن وُجد لتثبيت build tools إن لزم
+build-essential
+g++
+gcc
